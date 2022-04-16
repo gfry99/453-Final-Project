@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Pickles and CSV
+.csv
+.pickle
+
 # C extensions
 *.so
 
