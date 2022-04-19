@@ -4,8 +4,8 @@ __pycache__/
 *$py.class
 
 # Pickles and CSV
-#.csv
-#.pickle
+.csv
+.pickle
 
 # C extensions
 *.so
